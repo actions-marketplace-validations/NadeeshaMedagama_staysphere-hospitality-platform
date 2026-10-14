@@ -29,7 +29,7 @@
     "@staysphere/contracts": "workspace:*",
     "@staysphere/service-core": "workspace:*",
     "helmet": "^8.0.0",
-    "http-proxy-middleware": "^3.0.3",
+    "http-proxy-middleware": "^4.2.0",
     "kafkajs": "^2.2.4",
     "nanoid": "^3.3.8",
     "nestjs-pino": "^4.2.0",
