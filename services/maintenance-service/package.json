@@ -41,7 +41,7 @@
     "zod": "^3.24.1"
   },
   "devDependencies": {
-    "@nestjs/cli": "^10.4.9",
+    "@nestjs/cli": "^12.0.10",
     "@nestjs/schematics": "^10.2.3",
     "@nestjs/testing": "^12.2.0",
     "@staysphere/eslint-config": "workspace:*",
